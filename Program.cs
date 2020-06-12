@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 
-namespace TulesDemo {
+namespace TupleDemo {
     class Program {
         static void Main(string[] args) {
             var values = new List<double> { 10, 20, 30, 40, 50 };
